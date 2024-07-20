@@ -38,7 +38,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/kw-42/kw-42/output/snake.svg" alt="Snake animation" />
-
-###
