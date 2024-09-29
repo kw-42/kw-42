@@ -1,10 +1,11 @@
 
 
 <img src="https://github.com/user-attachments/assets/e2b2668a-de4f-45b0-aed8-aab2887c9faf"/>
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Modern+Antiqua&weight=900&size=37&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=kw_42;FullStack" alt="Typing SVG" /></a>
 </div>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Modern+Antiqua&weight=900&size=37&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=kw_42;FullStack)](https://git.io/typing-svg)
 
 ###
 
