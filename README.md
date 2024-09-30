@@ -9,9 +9,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kw-42&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="200" width="300" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=kw-42&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="200" alt="stats graph"  >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kw-42&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="200" alt="languages graph"  />
 </div>
+
+<br>
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="nodejs logo"  />
