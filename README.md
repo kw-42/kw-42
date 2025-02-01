@@ -46,6 +46,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
   <img width="12" />
+  <br />
 <!--   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
   <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
