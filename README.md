@@ -30,14 +30,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-<!--   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" /> -->
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
-<!--   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
-  <img width="12" /> -->
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
